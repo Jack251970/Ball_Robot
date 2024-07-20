@@ -16,7 +16,7 @@ Ball-playing robot with deep learning technology
 
 - Laptop
   - Detect the position of the ball and the master
-  - send the actions to the Raspberry Pi
+  - Send the actions to the Raspberry Pi
 - Raspberry Pi
   - Control the motors and the servo motors
   - Receive the actions from the laptop
